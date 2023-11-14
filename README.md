@@ -2,7 +2,7 @@
 
 The site includes custom scripts and files used in the study of “**Enhanced neutralization of SARS-CoV-2 XBB sub-lineages and BA.2.86 by a tetravalent COVID-19 vaccine booster**”.
 
-The code includes multiple langue. We recommend running the scripts on a Windows working station. In this documentation, unless otherwise noted, all steps are run under the Windows system.
+The code includes multiple language. We recommend running the scripts on a Windows working station. In this documentation, unless otherwise noted, all steps are run under the Windows system.
 
 Some of the scripts are written in Microsoft C# language based on the .net framework, the original code and project files are provided. To run the scripts, [Microsoft Visual Studio](https://visualstudio.microsoft.com/) is needed. The directory of the input and output should be named in the script before hitting the Compile and run button.
 
