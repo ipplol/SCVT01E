@@ -54,3 +54,10 @@ Phylogenetic reconstruction was performed with [MEGA-X](https://www.megasoftware
 
 Visualization was performed with [iTol](https://itol.embl.de/). 
 Annotation files were prepared manually and can be found in  ./SCTV01E/LineageTree/Data.
+
+# Antigenic map
+
+To obtain the antigenic map of this project, run the R script **Antigenic_map.R** in ./SCVT01E/Antigenic_map. 
+
+The output pdf file can be found at the working directory.
+Make sure the input file is in the working directory.
